@@ -1,6 +1,6 @@
 # Python--codigos-do-curso
 
-## Curso básico de Python- Let's Code
+## Curso basico de Python- Let's Code
 
 ## Nesse curso aprendi sobre:
 1. Variáveis
